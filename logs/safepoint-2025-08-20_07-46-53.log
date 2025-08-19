@@ -1,0 +1,3 @@
+[2025-08-20T07:46:53.535+0900][0.208s][info][safepoint] Safepoint "ICBufferFull", Time since last: 190366400 ns, Reaching safepoint: 1600 ns, Cleanup: 55800 ns, At safepoint: 4100 ns, Total: 61500 ns
+[2025-08-20T07:46:53.591+0900][0.264s][info][safepoint] Safepoint "G1CollectForAllocation", Time since last: 53905500 ns, Reaching safepoint: 1700 ns, Cleanup: 43900 ns, At safepoint: 2684200 ns, Total: 2729800 ns
+[2025-08-20T07:46:54.592+0900][1.265s][info][safepoint] Safepoint "Cleanup", Time since last: 1000611200 ns, Reaching safepoint: 5400 ns, Cleanup: 47200 ns, At safepoint: 1600 ns, Total: 54200 ns
